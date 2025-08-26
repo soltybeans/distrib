@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "cdc-learn/inserter"
 
 func main() {
-	fmt.Println("Hello you!")
+	inserter.InsertData()
 }
